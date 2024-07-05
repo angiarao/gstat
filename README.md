@@ -1,0 +1,2 @@
+# gstat
+get stats
